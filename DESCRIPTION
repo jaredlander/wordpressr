@@ -1,0 +1,17 @@
+Package: wordpressr
+Type: Package
+Title: Easier functions for working with WordPress
+Version: 1.0.0
+Date: 2014-12-16
+Author: Jared P. Lander
+Maintainer: Jared P. Lander <packages@jaredlander.com>
+Description: Functions to upload posts and pages to WordPress and edit (overwrite) existing pages and posts.  This uses rmarkdown as opposed to markdown like knit2wp.
+License: BSD_3_clause + file LICENSE
+LazyLoad: yes
+Imports:
+    rmarkdown,
+    magrittr
+Suggests:
+    testthat
+ByteCompile: TRUE
+Packaged: 2014-12-16 05:16:05 UTC; Jared

@@ -1,0 +1,4 @@
+Version 1.0.0
+-----------------------------------------------------------------------------------------------------
+First build
+Functions to upload posts and pages to WordPress and edit (overwrite) existing pages and posts.  This uses rmarkdown as opposed to markdown like knit2wp.
